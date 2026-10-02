@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi 👋, I'm Anushka Chavan
 
-<!--
-**anushkachavan23/anushkachavan23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Cybersecurity Student | 🔐 Cybersecurity Enthusiast
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 B.Tech CSIT – Cybersecurity
+- 🔐 Interested in Ethical Hacking, Network Security & Digital Forensics
+- 🐧 Working with Kali Linux
+- 🌐 Interested in Cybersecurity & IoT Security
+- 💻 Exploring Python for Cybersecurity
+- 🚀 Building practical cybersecurity projects
+
+## 🛠️ Skills
+
+### 🔐 Cybersecurity
+- Ethical Hacking
+- Network Security
+- Vulnerability Assessment
+- OSINT
+- Digital Forensics
+
+### 🧰 Security Tools
+- Kali Linux
+- Wireshark
+- Metasploit
+- Nmap
+- Cisco Packet Tracer
+
+### 💻 Programming & Databases
+- Python
+- C
+- SQL
+- MySQL
+
+### 📡 IoT & Networking
+- ESP32
+- Raspberry Pi
+- MQTT
+- Sensors
+- TCP/IP
+- DNS
+
+## 📂 Projects
+
+- 🔎 Wireshark Network Analysis
+- 🛡️ Cybersecurity Labs
+- 📡 IoT-Based Smart Plant Growth Chamber
+- 🐍 Python Cybersecurity Projects
+- 🏆 CTF Write-ups
+- 🚀 Smart India Hackathon Project
+
+## 📜 Experience
+
+### Cybersecurity Internship
+Worked on IoT-based systems involving ESP32, Raspberry Pi,
+sensors and communication technologies.
+
+## 📫 Connect With Me
+
+- GitHub: [anushkachavan23](https://github.com/anushkachavan23)
